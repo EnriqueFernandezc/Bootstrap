@@ -10,3 +10,18 @@ h4 {
     margin-left: 10px;
     width: 60%;
 }
+
+.lista_generos a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.lista_generos li {
+    list-style: none;
+}
+
+.lupa svg {
+    height: 80px;
+    margin: 20px;
+}
